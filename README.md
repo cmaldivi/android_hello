@@ -1,4 +1,4 @@
-Simple android project starter
+#Simple android project starter
 
 There is an issue with new gradle tools (>= 2.0.0):
 
